@@ -1,0 +1,14 @@
+Digital implementation of the low-pass filter for Arduino
+
+Digital implementation of the low-pass filter code is based on the following
+article: ADAPTIVE IIR FILTER USING FIXED POINT INTEGER ARITHMETIC
+by Hari Nair, published on March 23, 2013 
+
+Original text of the article is located here:
+http://www.dsprelated.com/showcode/326.php
+
+Changelog:
+v1.0.0:
+  2015-02-24 - Initial release 
+
+
