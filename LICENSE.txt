@@ -1,4 +1,4 @@
-Copyright (c) 2015 Anatoli Arkhipenko.
+Copyright (c) 2016 Anatoli Arkhipenko.
 All rights reserved.
 
 THIS SOFTWARE IS PROVIDED FREE OF CHARGE ACCORDING TO BSD LICENSE:
