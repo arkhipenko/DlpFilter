@@ -15,6 +15,8 @@ adlpFilter	KEYWORD1
 
 value	KEYWORD2
 K	KEYWORD2
+initialize	KEYWORD2
+currentValue	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
